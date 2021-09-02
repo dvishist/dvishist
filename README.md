@@ -35,5 +35,5 @@ This project was a part of a Typescript Course by Stephen Grinder on Udemy. It u
 src: https://github.com/dvishist/ts-web-framework
 
 ### weather website
-This is my first javascript project I created when learning Node.js. It is a simple weather app that displays the weather at any location by taking user input. By default it shows the local weather. It is written in Node.js and vanilla javascript for frontend.
+This is my first javascript project I created when learning Node.js. It is a simple weather app that displays the weather at any location by taking user input. By default it shows the local weather. It is written in Node.js and vanilla javascript for frontend. It uses the mapbox API to fetch the weather data.
 src: https://github.com/dvishist/node3-weather-website
