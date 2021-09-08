@@ -32,8 +32,8 @@ It is a simple React implementation of Conway's Game of Life written in React an
 
 ### TS web Framework
 This project was a part of a Typescript Course by Stephen Grinder on Udemy. It uses Typescript to build a frontend framework that can model html components, render components and bind events to the componentst to make them interactive. It is inspired by backbone.js
-src: https://github.com/dvishist/ts-web-framework
+- src: https://github.com/dvishist/ts-web-framework
 
 ### weather website
 This is my first javascript project I created when learning Node.js. It is a simple weather app that displays the weather at any location by taking user input. By default it shows the local weather. It is written in Node.js and vanilla javascript for frontend. It uses the mapbox API to fetch the weather data.
-src: https://github.com/dvishist/node3-weather-website
+- src: https://github.com/dvishist/node3-weather-website
